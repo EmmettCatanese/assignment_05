@@ -1,7 +1,1 @@
-Write your reflection here.
-
-See reflection.md for what makes a good reflection — be specific, use the
-terminology from this assignment (grain, long vs. wide, vectorized .str methods,
-coerce, NaT, pd.to_datetime format, .dt, concat, ignore_index, group by, named
-aggregation, reset_index, pivot_table, fill_value, melt, lineage), and make it
-actionable.
+I thought it was so valueble to me as I coerced the data to be exactly what we wanted. When we started wrangling this data, it was chaotic. Nothing followed any conventions and it didn't make any sense. But as we coerced the data using stuff like .str methods and turning the dates to datetime objects we slowly were able to build the data. I would like to continue to learn about coercing data and adding structure to data. I am going to generate a sample dataset in Claude that will be specifically hard to parse so I can practice parsing and coerce data. 
